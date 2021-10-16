@@ -3,7 +3,7 @@ Amazon clone using React.js, Next.js, Firebase, Stripe checkout, google authenti
 
 Live site- https://amzn-flame.vercel.app/
 
-![amzn-pic](https://user-images.githubusercontent.com/86771291/137499860-9e8f84f6-5712-4c03-8d8b-607fb88fb18b.png)
+![amzn-pic](https://user-images.githubusercontent.com/86771291/137578337-7d3a2f31-872d-4d4f-90c0-c6318da923c8.png)
 
 # Features 
 
