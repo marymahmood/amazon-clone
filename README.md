@@ -3,7 +3,10 @@ Amazon clone using React.js, Next.js, Firebase, Stripe checkout, google authenti
 
 Live site- https://amzn-flame.vercel.app/
 
-![amzn-pic](https://user-images.githubusercontent.com/86771291/137578337-7d3a2f31-872d-4d4f-90c0-c6318da923c8.png)
+Make sure to enter these credit card details for successful transaction: Card number: 4242 4242 4242 4242 Card end date: 04/24 Card CVV: 424
+
+
+![amzn-pic-final](https://user-images.githubusercontent.com/86771291/138238570-2b2153be-fbcd-40c5-828e-9b3ee3be60a5.png)
 
 # Features 
 
@@ -11,7 +14,11 @@ Live site- https://amzn-flame.vercel.app/
 
 -Add items to basket and remove them
 
--Stripe checkout
+-Stripe checkout 
+ Make sure to enter these credit card details for successful transaction: 
+ Card number: 4242 4242 4242 4242 
+ Card end date: 04/24 
+ Card CVV: 424
 
 -Check orders
 
